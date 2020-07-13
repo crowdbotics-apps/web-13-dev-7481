@@ -31,3 +31,8 @@ class HomePage(models.Model):
     @property
     def field(self):
         return "body"
+
+
+class Aabc(models.Model):
+    "Generated Model"
+    jhgjhgjg = models.BigIntegerField()
